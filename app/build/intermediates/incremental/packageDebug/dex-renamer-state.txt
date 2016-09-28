@@ -1,0 +1,7 @@
+#Tue Sep 27 23:51:26 BST 2016
+base.0=/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/WhatsTheWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d0727900c6c012eeae15d8d77dd1956e7e60c47f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/WhatsTheWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f22104cc8c445f1b9b6072134983fbeb2ca71416/classes.dex
+base.1=/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/WhatsTheWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f22104cc8c445f1b9b6072134983fbeb2ca71416
+file.0=/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/WhatsTheWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d0727900c6c012eeae15d8d77dd1956e7e60c47f/classes.dex

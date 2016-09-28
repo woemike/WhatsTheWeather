@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/WhatsTheWeather/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="795b31089b6297975f2f363468c50337d90acbfe">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/WhatsTheWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f22104cc8c445f1b9b6072134983fbeb2ca71416/classes.dex" />
+    </item>
+    <item
+        jar="/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/WhatsTheWeather/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e10c4efaeadbed5fbd951665d7cb87d7de9eb987">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/WhatsTheWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d0727900c6c012eeae15d8d77dd1956e7e60c47f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/WhatsTheWeather/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f15741a8d0137fac0ea19ba68c0b346497ec39ab">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/WhatsTheWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d0727900c6c012eeae15d8d77dd1956e7e60c47f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/WhatsTheWeather/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b12f9f827df5a0325f8501515daaa8b16314dbfa">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/WhatsTheWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f22104cc8c445f1b9b6072134983fbeb2ca71416/classes.dex" />
+    </item>
+
+</items>
